@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Aprajita]!
+# 👋 Hello, I'm Aprajita!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aprajita-99&color=blue) 
 ![GitHub Followers](https://img.shields.io/github/followers/aprajita-99?style=social) 
