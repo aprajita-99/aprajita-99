@@ -68,4 +68,4 @@ hobbies: ["Reading about psychology" , "Watching Criminal documentaries", "and I
 
 </p>
 
-![Snake animation](https://github.com/aprajita-99/aprajita-99/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/aprajita-99/aprajita-99/blob/output/github-snake-dark.svg)
