@@ -2,7 +2,7 @@
 
 ---
 
-<h2> &nbsp;A Little Bit About Me and My Interests</h2>
+<h2>A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Aprajita Kumari
@@ -34,7 +34,6 @@ hobbies: ["Reading about psychology" , "Watching Criminal documentaries", "and I
  
 <h2>Some Tools and Languages I Have Learned and used</h2>
 <p align="left">
-<!-- 💻 Tech Stack Icons -->
 <p align="center">
   <!-- Editors & Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
