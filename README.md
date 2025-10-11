@@ -29,7 +29,7 @@ hobbies: ["Reading about psychology" , "Watching Criminal documentaries", "and I
 --- 
 
  
-<h2> &nbsp;Some Tools and Languages I Have Learned and used</h2>
+<h2>Some Tools and Languages I Have Learned and used</h2>
 <p align="left">
 <!-- 💻 Tech Stack Icons -->
 <p align="center">
