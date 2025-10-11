@@ -68,4 +68,9 @@ hobbies: ["Reading about psychology" , "Watching Criminal documentaries", "and I
 
 </p>
 
+<hr style="height:3px; border:none; background-color:white; margin:20px 0;">
+
+
+
+
 ![snake gif](https://github.com/aprajita-99/aprajita-99/blob/output/github-snake-dark.svg)
