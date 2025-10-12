@@ -1,5 +1,7 @@
 <img width="1010" height="334" alt="image" src="https://github.com/user-attachments/assets/be1cfb09-34ff-48f1-bd12-38e80c8b62bf" />
+<hr style="height:3px; border:none; background-color:white; margin:20px 0;">
 
+[![An image of @aprajita99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aprajita99)](https://holopin.io/@aprajita99)
 
 ---
 
