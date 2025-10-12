@@ -72,7 +72,7 @@ hobbies: ["Reading about psychology" , "Watching Criminal documentaries", "and I
 
 <hr style="height:3px; border:none; background-color:white; margin:20px 0;">
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aprajita-99&show_icons=true&theme=transparent)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aprajita-99&show_icons=true&theme=transparent) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprajita-99&layout=donut&theme=transparent)](https://github.com/aprajita-99/github-readme-stats)
 
 
